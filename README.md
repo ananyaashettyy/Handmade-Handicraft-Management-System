@@ -1,5 +1,4 @@
 # Handicraft-Management-System
-
-Admin detail
-Admin name: ananya
-password: admin
+Admin Login Details
+Login Id: 123
+Password: 123
